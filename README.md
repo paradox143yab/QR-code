@@ -16,21 +16,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
-
+Its a basic website that shows a QR code
 ### Screenshot
 
 ![](./screenshot.jpg)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
@@ -45,6 +37,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - CSS custom properties
 - Flexbox
 ### What I learned
+i learned -how to position a div 
+          -how to center images 
 
 ### Continued development
  i would like to continue my front end journey more by studiying javascript and react
@@ -60,8 +54,5 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Frontend Mentor - @paradox143yab
 - Telegram - @Ak7Yab
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
 ## Acknowledgments
-i want to tank angela for telling us about the website front end mentour in her front end fulll course . special thanks!
-and last but not least i want to thank me
+i want to thank angela for reavealing us about the wonderful website front end mentour in her front end full course . special thanks!
